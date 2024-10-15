@@ -14,7 +14,7 @@ This project is a backend application that provides a set of APIs for a train bo
 - **POST /api/auth/register**: Allows users to register.
 - **POST /api/auth/login**: Allows users to log in and receive an authentication token.
 - **POST /api/auth/add-train**: Admin-protected route where admins can add a new train.
-- **GET /api/auth/trains**: Users can search for trains by providing source and destination.
+- **POST /api/auth/trains**: Users can search for trains by providing source and destination.
 - **POST /api/auth/book-seat**: Allows users to book seats on available trains and view details after booking (requires authentication).
 
 ## Tech Stack
