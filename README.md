@@ -1,6 +1,6 @@
 # Train Booking System (Backend Only)
 
-This project is a backend application that provides a set of APIs for a train booking system. Users can register, log in, search for trains by source and destination, and book seats. Admin users have the ability to add new trains to the system.
+This project is a backend application that provides a set of APIs for a train booking system. Users can register, log in, search for trains by source and destination, and book seats. Admin have the ability to add new trains to the system.
 
 ## Features
 
